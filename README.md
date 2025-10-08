@@ -17,7 +17,7 @@ Hi there! I'm Dhanish H Poojary, a passionate developer with a love for Tech. I'
 
 Feel free to reach out or connect with me on the following platforms:
 
-[LinkedIn](https://www.linkedin.com/in/dhanish-harish-poojary-73b70432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](www.linkedin.com/in/dhanish-harish-poojary)
 
 [Gmail](dhanishpwork777@gmail.com)
 
