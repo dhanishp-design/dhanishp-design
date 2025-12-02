@@ -49,4 +49,4 @@ Learn about More AI Tools & New Technology.
 
 ## Thanks For Visiting
 
-Let's Coolaborate in Some New Techy Things
+Let's Collaborate in Some New Techy Things
