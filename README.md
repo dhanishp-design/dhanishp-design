@@ -11,7 +11,7 @@
 
 💻 Currently I'm a Student with a focus on Exploring New Tech Things. 
 
-🌱 Currently Exploring Open Source , Cloud and DevOps.
+🌱 Currently Exploring Open Source , AI & Cloud.
 
 🌍 I'm based in Nashik , Maharashtra.
 
