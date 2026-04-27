@@ -41,16 +41,24 @@ Feel free to reach out or connect with me on the following platforms:
 
 I'm always striving to improve, and here are some of my current goals:
 
-Master Flutter , App Development.
+🎯 Master Flutter & App Development
 
-Contribute more to Open Source Community.
+🤝 Contribute actively to Open Source
 
-Build KhelYoddha and launch it
+🚀 Build & Launch KhelYoddha Web/App Project
 
-Learn about More AI Tools & New Technology.
-
+🧠 Keep learning AI & Emerging Technologies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Thanks For Visiting
+## ⚡ Fun Fact
 
-Let's Collaborate in Some New Techy Things
+I mix tech + creativity — coding by day, music vibes by night 🎶💻
+
+## 🤝 Let's Collaborate!
+
+I'm always open to working on cool tech projects, open source contributions, or innovative ideas.
+
+💡 If you have something exciting — let’s build it together!
+
+## ⭐ Thanks for visiting my profile!
+Don't forget to check out my repositories and drop a ⭐ if you like my work!
