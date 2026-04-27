@@ -9,13 +9,17 @@
 
 ## About Me
 
-💻 Currently I'm a Student with a focus on Exploring New Tech Things. 
+💻 I'm currently a Student Developer focused on learning and building real-world projects
 
-🌱 Currently Exploring Open Source , AI & Cloud.
+🌱 Exploring Open Source, AI, and Cloud Technologies
 
-🌍 I'm based in Nashik , Maharashtra.
+📍 Based in Nashik, Maharashtra, India
 
-🎨 My other interests include Music Production , Song-Writing , Learning More About Ancient History.
+🎵 Beyond coding, I enjoy:
+
+- Music Production 🎧
+- Songwriting ✍️
+- Exploring Ancient History 🏺
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
