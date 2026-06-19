@@ -1,62 +1,21 @@
-## Welcome to My GitHub Profile!👋
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey!+I%27m+Dhanish%20Poojary%20%F0%9F%98%89;+Exploring+and+Learning%20Tech;"/>
-</h1>
-<h3 align="center"> A Passionate Developer with a love for Tech. Always learning, building, and experimenting with new projects</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## About Me
-
-💻 I'm currently a Student Developer focused on learning and building real-world projects
-
-🌱 Exploring Open Source, AI, and Cloud Technologies
-
-📍 Based in Nashik, Maharashtra, India
-
-🎵 Beyond coding, I enjoy:
-
-- Music Production 🎧
-- Songwriting ✍️
-- Exploring Ancient History 🏺
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Connect with Me
-
-Feel free to reach out or connect with me on the following platforms:
-
-**-** **LinkedIn** : [**Dhanish H Poojary**](www.linkedin.com/in/dhanish-harish-poojary)
-
-**-** **Instagram** : [**@dhanish_108**](https://www.instagram.com/dhanish_108)
-
-**-** **Gmail** : [**dhanishpwork777@gmail.com**](mailto:dhanishpwork777@gmail.com)
-
-**-** **Discord** : **consite2025**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-## Goals
-
-I'm always striving to improve, and here are some of my current goals:
+# 💫 About Me:
+# Hi, I'm Dhanish Poojary 👋<br><br>AI & Data Science Undergraduate passionate about building innovative solutions through Artificial Intelligence, Full Stack Development, Cloud Computing, and Open Source. I enjoy transforming ideas into scalable applications that solve real-world problems and create meaningful impact.<br><br>Currently pursuing a B.Tech in Artificial Intelligence & Data Science while continuously expanding my expertise in software development, data-driven technologies, and modern cloud platforms. As a Freelance Full Stack Developer, I have experience developing and deploying production-ready web applications, collaborating with clients, and delivering end-to-end digital solutions.<br><br>🏆 Hackathon Winner | ☁️ Google Cloud Foundations Certified | 💻 Open Source Contributor | 🚀 Lifelong Learner<br><br>Always exploring new technologies, contributing to the developer community, and building projects that bridge innovation with practical value.
 
 
-🤝 Contribute actively to Open Source
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhanish-harish-poojary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanishpwork777@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dhanishp-design&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=dhanishp-design&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhanishp-design&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🧠 Keep learning AI & Emerging Technologies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ⚡ Fun Fact
+---
+[![](https://komarev.com/ghpvc/?username=dhanishp-design&icon=5&color=5)](https://visitcount.itsvg.in)
 
-I mix tech + creativity — coding by day, music vibes by night 🎶💻
-
-## 🤝 Let's Collaborate!
-
-I'm always open to working on cool tech projects, open source contributions, or innovative ideas.
-
-💡 If you have something exciting — let’s build it together!
-
-## ⭐ Thanks for visiting my profile!
-Don't forget to check out my repositories and drop a ⭐ if you like my work!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
