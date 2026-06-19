@@ -41,11 +41,9 @@ Feel free to reach out or connect with me on the following platforms:
 
 I'm always striving to improve, and here are some of my current goals:
 
-🎯 Master Flutter & App Development
 
 🤝 Contribute actively to Open Source
 
-🚀 Build & Launch KhelYoddha Web/App Project
 
 🧠 Keep learning AI & Emerging Technologies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
