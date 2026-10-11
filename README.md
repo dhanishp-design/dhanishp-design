@@ -1,12 +1,24 @@
-# 💫 About Me:
-Hi, I'm Dhanish Poojary 👋<br><br>AI & Data Science Undergraduate Passionate about building Innovative solutions through Artificial Intelligence, Full Stack Development, Cloud Computing, and Open Source. I enjoy transforming ideas into Scalable Applications that solve real-world Problems and Create Meaningful Impact.<br><br>Currently Pursuing a B.Tech in Artificial Intelligence & Data Science while continuously expanding my Expertise in Software Sevelopment, Data-Driven Technologies, and Modern Cloud Platforms. As a Freelance Developer, I have experience Developing and Deploying Production-Ready Web Applications, Collaborating with Clients, and Delivering End-to-End Digital Solutions.<br><br>🏆 Hackathon Winner | ☁️ Google Cloud Foundations Certified | 💻 Open Source Contributor | 🚀 Lifelong Learner<br><br>Always Exploring New Technologies, Contributing to the Developer Community, and Building Projects that bridge Innovation with Practical Value.
+## 💫 About Me:
+### Hi, I'm Dhanish Poojary 👋
 
+AI & Data Science undergraduate passionate about **AI, Full-Stack Development, Cloud Computing, and Open Source**. I build scalable applications that solve real-world problems and turn ideas into impactful solutions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhanish-harish-poojary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanishpwork777@gmail.com) 
+☁️ Google Cloud Foundations Certified | 💻 Open Source Contributor | 🚀 Freelance Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhanishp-design&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dhanishp-design&theme=dark&hide_border=false)
+**Building. Learning. Contributing.**
+## 🌐 Connect on Socials!
+
+- *LinkedIn*: [**Dhanish H Poojary**](https://linkedin.com/in/www.linkedin.com/in/dhanish-harish-poojary)
+- *Instagram*: [**@dhanish_108**](https://www.instagram.com/dhanish_108/)
+- *X*: [**@Dhanish108**](https://x.com/Dhanish108)
+- *Email*: [**dhanishpwork777@gmail.com**](mailto:dhanishpwork777@gmail.com)
+
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,typescript,gcp,mongodb,mysql,postman,githubactions,github,bash,vercel,tensorflow" /><br>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+🤝 I'm always ready for **Hackathons, Open-source collaborations, and Team-based innovation projects**.
