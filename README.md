@@ -1,7 +1,7 @@
 ## 💫 About Me:
 ### Hi, I'm Dhanish Poojary 👋
 
-AI & Data Science undergraduate passionate about **AI, Full-Stack Development, Cloud Computing, and Open Source**. I build scalable applications that solve real-world problems and turn ideas into impactful solutions.
+AI & Data Science Undergraduate Passionate About **AI, Data Analytics, Full-Stack Development, Cloud Computing, and Open Source**. I Build Scalable Applications that Solve Real-World Problems and Turn Ideas into Impactful Solutions.
 
 ☁️ Google Cloud Foundations Certified | 💻 Open Source Contributor | 🚀 Freelance Developer
 
